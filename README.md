@@ -7,3 +7,4 @@ the lobby and than once created, it will open up the lobby part which you can st
 once all players are ready, the one who created also hit ready than hit start, which will load all players in
 once in, you can move around using the controls and you can see other players moving around as well in sync. 
 The controls, left joystick will control the movement, right joystick control the camera movement
+p.s do remember this is a unity build and the build is towards Android.
